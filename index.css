@@ -25,7 +25,7 @@ body {
 }
 .imgg {
 	height: 300px;
-	width: 100px;
+	width: 200px;
 }
 
 .projects {
@@ -54,4 +54,9 @@ body {
 	color: antiquewhite;
 	font-weight: 300;
 	font-size: 20px;
+}
+
+.ima {
+	height: 300px;
+	width: px;
 }
