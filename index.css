@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Open+Sans&family=Ubuntu:wght@300&display=swap');
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.card {
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 10px;
+}
+
+.landing {
+	background-image: url(./img/landing.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.landing1 {
+	background: rgba(0, 0, 0, 0.5);
+}
+.imgg {
+	height: 350px;
+	width: 350px;
+}
+
+.projects {
+	background-image: url(./img/projects5.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#tools {
+	background-image: url(./img/tools4.png);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;	
+}
+
+.p {
+	color: antiquewhite;
+	font-weight: 300;
+	font-size: 18px;
+}
+
+#tools-2 {
+	color: antiquewhite;
+	font-weight: 300;
+	font-size: 20px;
+}
